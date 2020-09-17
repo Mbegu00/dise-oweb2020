@@ -1,12 +1,14 @@
+
 body {
   background-color: black;
+  /* el tamaño de la caja o contenedor ANCHOR */
   width: 400px;
   	/* fondo */
   background: #040D1C;
   	/* relleno */
   padding: 30px;
   	/* margen */
-  margin: auto;
+  margin: 10px;
   	/* margen de arriba */
   margin-top: 100px;
   	/* radio de borde */
@@ -15,14 +17,29 @@ body {
   font-family: 'calibri';
   /* color */
   color: white;
-}
-
-#hea {
-  color: white;
+  /* para centrar la lettra */
   text-align: center;
-  font-size: 40px;
 }
 
+/* TITULO HECHO */
+#hea {
+/* color de la letra */
+  color: white;
+  /* para centrar la lettra */
+  text-align: center;
+  /* tamaño de la letra */
+  font-size: 20px;
+  background-color: #0B306E;
+  /* el tamaño de la caja o contenedor ANCHOR */
+  width: 300px;
+  /* el margen entre dos elementos  */
+  margin: 10px;
+  /* LARGOR del contenedor */
+  line-height: 50px;
+
+}
+
+/* el contenedor */
 .pri {
 	display: flex;
 	height: 200px;
@@ -32,10 +49,35 @@ body {
 
 .pri nav{
 	background-color: #0B306E;
-	width: 50px;
-	margin: 10px;
+	/* el tamaño de la caja o contenedor ANCHOR */
+  	width: 200px;
+	margin: 5px;
 	text-align: center;
-	line-height: 75px;
+	/* LARGOR del contenedor */
+    line-height: 300px;
+	font-size: 30px;
+
+
+.pri aside{
+	background-color: #0B306E;
+	/* el tamaño de la caja o contenedor ANCHOR */
+  	width: 200px;
+	margin: 5px;
+	text-align: center;
+	/* LARGOR del contenedor */
+    line-height: 300px;
 	font-size: 30px;
 }
+
+.pri section{
+	background-color: #0B306E;
+	/* el tamaño de la caja o contenedor ANCHOR */
+  	width: 200px;
+	margin: 5px;
+	text-align: center;
+	/* LARGOR del contenedor */
+    line-height: 300px;
+	font-size: 30px;
+}
+
 

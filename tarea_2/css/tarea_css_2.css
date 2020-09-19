@@ -12,9 +12,9 @@
 .Principal {
 
 	/* Altura */
-	height: 600px;
+	height: 450px;
 	/* Anchor */
-	width: 1100px;
+	width: 650px;
 	/* Para alinear las cosas */
   	align-items: flex-start;
   	/* Color */
@@ -26,7 +26,7 @@
 		/* Altura */
 	height: 50px;
 	/* Anchor */
-	width: 600px;
+	width: 627px;
 	/* Para alinear las cosas */
   	align-items: flex-start;
   	/* Color */
@@ -45,7 +45,7 @@
 .pri nav{
 
 	/* Altura */
-	height: 400px;
+	height: 250px;
 	/* Anchor */
 	width: 200px;
 	/* Para alinear las cosas */
@@ -61,7 +61,7 @@
 
 .pri section{
 		/* Altura */
-	height: 400px;
+	height: 250px;
 	/* Anchor */
 	width: 200px;
 	/* Para alinear las cosas */
@@ -71,15 +71,16 @@
     /* el margen entre dos elementos  */
  	margin: 10px;
 
+
 }
 
 .pri aside{
 		/* Altura */
-	height: 400px;
+	height: 250px;
 	/* Anchor */
 	width: 200px;
 	/* Para alinear las cosas */
-  	align-items: flex-start;
+  	align-items: center;
   	/* Color */
     background-color: #0E4B7A;
     /* el margen entre dos elementos  */
@@ -89,7 +90,7 @@
 
 .pri header{
 		/* Altura */
-	height: 70px;
+	height: 50px;
 	/* Anchor */
 	width: 150px;
 	/* Para alinear las cosas */
@@ -98,6 +99,10 @@
     background-color: #326E2C;
     /* el margen entre dos elementos  */
  	margin: 10px;
+
+ 	position: relative;
+    top: 10px;
+    left: 18px;
 }
 
 .pri article{
@@ -111,11 +116,15 @@
     background-color: #326E2C;
     /* el margen entre dos elementos  */
  	margin: 10px;
+
+ 	position: relative;
+    top: 15px;
+    left: 18px;
 }
 
 .pri footer{
 		/* Altura */
-	height: 70px;
+	height: 50px;
 	/* Anchor */
 	width: 150px;
 	/* Para alinear las cosas */
@@ -124,6 +133,11 @@
     background-color: #326E2C;
     /* el margen entre dos elementos  */
  	margin: 10px;
+
+ 	position: relative;
+    top: 20px;
+    left: 18px;
+
 }
 
 
@@ -137,7 +151,7 @@
 		/* Altura */
 	height: 50px;
 	/* Anchor */
-	width: 600px;
+	width: 627px;
 	/* Para alinear las cosas */
   	align-items: flex-start;
   	/* Color */

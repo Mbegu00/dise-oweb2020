@@ -1,0 +1,40 @@
+#body{
+	background-color: #D2D8EB;
+	color: #445DEB;
+}
+
+.Principal{
+	
+	position: relative;
+    top: 150px;
+    left: 330px;
+	/* Altura */
+	height: 250px;
+	/* Anchor */
+	width: 450px;
+	background-color: white;
+
+}
+
+.input-group label{
+	width  : 40px;
+    height : 98px;
+    margin : 0 auto;
+}
+
+#btn-submit{
+	position: relative;
+    top: 5px;
+    left: 100px;
+	background-color: #445DEB;
+  	border-radius: 0px;
+  	width: 250px;
+    height: 30px;
+
+}
+
+.label{
+	width  : 740px;
+    height : 498px;
+    margin : 0 auto;
+} 

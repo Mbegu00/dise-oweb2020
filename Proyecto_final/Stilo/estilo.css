@@ -1,0 +1,94 @@
+#body{
+	background-color: white;
+
+}
+
+
+.ada{
+  color: red;
+}
+
+
+.caja{
+  width: 2825px;
+  height: 750px;
+  border: 1px solid black; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#polo {
+  width: 800px;
+  height: 650px;
+  border: 1px solid black; 
+  display: flex;
+  align-items: center;
+}
+
+#reloj {
+  width: 800px;
+  height: 650px;
+  border: 1px solid black; 
+  display: flex;
+  align-items: center;
+
+}
+
+#reme {
+  width: 800px;
+  height: 650px;
+  border: 1px solid black; 
+  display: flex;
+  align-items: center;
+}
+
+
+
+
+.caja2{
+  width: 2825px;
+  height: 750px;
+  border: 1px solid black; 
+  /**
+*es para hacer que las cajas sean flexibles
+*/
+  display: flex;
+  align-items: center;
+ /**
+*es para poder centrar todas las cajas
+*/
+  justify-content: center;
+}
+
+#sport {
+  width: 800px;
+  height: 650px;
+  border: 1px solid black; 
+  display: flex;
+  align-items: center;
+}
+
+/**
+*codigo no usado todavia
+*/
+#reloj {
+  width: 800px;
+  height: 650px;
+  border: 1px solid black; 
+  display: flex;
+  align-items: center;
+
+}
+
+#reme2 {
+  width: 800px;
+  height: 650px;
+  border: 1px solid black; 
+  display: flex;
+  align-items: center;
+}
+
+
+
+

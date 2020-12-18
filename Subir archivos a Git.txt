@@ -1,0 +1,19 @@
+Clonas un repositorio y lo modificas    O   habres la terminal de git "GIT BASH HERE" en la carpeta que tienes los archivos 
+
+COMANDOS
+
+//para ver el estado de los archivos si fueron modificados o no
+//color Rojo = modificados y no estan el repositorio
+//color Verde = ya fueron alzados pero estan en un intermedio todavia 
+git status
+
+//add = es para poder agregar ya en el carrito para poder alzar en el repo
+// * = es para poder agregar todo los archivos
+git add *
+
+//commit es para poder ponerle un comentario al la modificacion
+git commit -m "comentario"
+
+
+//push = es para poder alzar los archivos al repo
+git push origin master 
